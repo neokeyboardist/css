@@ -1,0 +1,23 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+header{
+  border: 2px solid turquoise;
+  padding: 10px;
+  margin: 15px;
+}
+
+main{
+  border: 2px solid orange;
+  padding: 10px;
+  margin: 15px;
+}
+
+footer{
+  border: 2px solid tomato;
+  padding: 10px;  
+  margin: 15px;
+}
