@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@font-face {
+  font-family: "Canela Bold";
+  src: url("fonts/Canela-Bold.woff2") format("woff2"), 
+  url("fonts/Canela-Bold.woff") format("woff");
+}
+
+.google{
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 20px;
+}
+
+.custom {
+  font-family: 'Canela Bold';
+}
+
+
